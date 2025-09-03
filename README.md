@@ -19,3 +19,8 @@ It was developed as part of a Diploma project to manage products and stock detai
 
 ```bash
 javac Inventory.java
+```
+## Author
+
+Jaydeep Ahir
+[LinkedIn](https://www.linkedin.com/in/jaydeep-ahir-811743209/)
